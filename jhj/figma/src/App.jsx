@@ -13,7 +13,7 @@ const App = () => {
             </span>
           </div>
         </div>
-        <span className="text-black text-4xl" >
+        <span className="self-stretch text-black text-4xl" >
           자아아아아기소오오개
         </span>
         <div className="flex flex-wrap items-center self-stretch gap-[30px]">
